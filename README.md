@@ -4,6 +4,9 @@
 
 This repository contains a series of exercises focusing on customizing the theme of an Android application using Jetpack Compose.
 
+## Demo
+![Screenshot](.png)
+
 ## Assignment Overview
 
 The assignment consists of six steps, each focusing on a different aspect of theming in Jetpack Compose. The steps are as follows:
